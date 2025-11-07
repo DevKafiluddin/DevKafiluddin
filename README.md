@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'am Kafiluddin Ahmed <h1/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQElVThTThpLCA/profile-displaybackgroundimage-shrink_350_1400/B56Zo1S_J6H8AY-/0/1761830762562?e=1764201600&v=beta&t=MXAjkc1IO4Es2wB5jAcj7Bi6yqxGILzUkoMGQEwKiqM">
+
 <h3 align="center">I’m a Professional Web Designer, Developer & WordPress Expert | I Love Creating Modern, Meaningful Websites That Help Businesses and Creators Succeed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkafiluddin&label=Profile%20views&color=0e75b6&style=flat" alt="devkafiluddin" /> </p>
