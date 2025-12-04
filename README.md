@@ -1,3 +1,5 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=devkafiluddin&theme=onedark)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevKafiluddin/DevKafiluddin/main/banner.jpg" width="100%" />
 </p>
