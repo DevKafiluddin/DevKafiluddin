@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devkafiluddin&theme=flat&margin-w=10&margin-h=10&column=7" alt="Kafiluddin's GitHub Trophies" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devkafiluddin&margin-w=10&margin-h=10" alt="devkafiluddin" />
+  </a>
 </p>
 
 ---
