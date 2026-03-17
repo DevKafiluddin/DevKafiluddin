@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devkafiluddin&label=Profile%20views&color=0e75b6&style=flat" alt="devkafiluddin" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
